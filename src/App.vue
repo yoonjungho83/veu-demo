@@ -13,6 +13,10 @@ export default {
   components: {
     HelloWorld
   }
+  ,
+  created(){
+    
+  }
 }
 </script>
 
